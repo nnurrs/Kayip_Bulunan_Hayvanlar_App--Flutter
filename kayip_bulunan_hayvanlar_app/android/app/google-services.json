@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "672198378939",
+    "project_id": "kayip-bulunan-hayvanlar-app",
+    "storage_bucket": "kayip-bulunan-hayvanlar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672198378939:android:84812236c00d8cb542b09e",
+        "android_client_info": {
+          "package_name": "com.example.kayip_bulunan_hayvanlar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672198378939-k82e95vj1i4run823gkah96lc4pd2q1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kayip_bulunan_hayvanlar_app",
+            "certificate_hash": "7752e08f65c5a2a0d038f1489bea7d5635f04796"
+          }
+        },
+        {
+          "client_id": "672198378939-1ftmaklnilq3m93j0662vo3upjnn30sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaoX_Yr3LrOBo11fl0nHIKDQbKy7EM0BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672198378939-1ftmaklnilq3m93j0662vo3upjnn30sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "672198378939-mlqukgdvf9ceu8b4ed22k91uel9i85dc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kayipBulunanHayvanlarApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
