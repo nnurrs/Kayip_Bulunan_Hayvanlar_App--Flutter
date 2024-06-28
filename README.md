@@ -15,31 +15,38 @@ Uygulama üzerinden gösterilen, belirlenmiş olan mama bağış noktaları saye
 Google ile Giriş Yapma seçeneği sayesinde, gerçek hesapların uygulamayı kullanması amaçlanmıştır.
 
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/f4bfc822-5733-45d2-9ab9-cec95c033b4b)
+![IMG-20240628-WA0014](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/573bbfec-fdb9-433b-876c-ce4c47b99896)
 
 
 ## Sahiplen Ekranı:
 
 Belirli bir süre geçmesine rağmen sahibi hala bulunamamış hayvanların sahiplenilebilmesi için tasarlanmış bir sayfadır.
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/da1f383c-84a6-4a60-87fb-56de12b5ff0f)
+![IMG-20240628-WA0013](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/76e0e407-738f-48c1-9e46-86a897040f04)
 
 
 ## Sahiplen Filtrele Ekranı:
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/04a92145-5393-4450-b47f-4d9c40ee6349)
+![IMG-20240628-WA0012](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/abaf794c-8015-4117-b893-76d1e8dc1687)
 
 
 ## Kayıp/Bulunan Ekranı:
 
 Kayıp ve Bulunan Hayvanların ilanlarının bulunduğu sayfalardır.
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/8c375984-86ad-4e13-8ce6-f09128b06f40)
+![IMG-20240628-WA0011](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/5e4cde70-045a-498a-9463-155090776ec2)
+
+
+![IMG-20240628-WA0010](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/dddad9dd-c273-4155-8536-4a4d5e536d39)
 
 
 ## Kayıp/Bulunan Filtreleme Ekranı:
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/3c9c7603-ce50-47c7-bad7-3b2fdb621b8c)
+![IMG-20240628-WA0009](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/aac00d63-0ad5-4be9-b84f-72061ae2bbc8)
+
+
+![IMG-20240628-WA0008](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/76518e9e-ef24-4355-a4e4-ed273ca269ee)
+
 
 
 ## Kayıp Hayvan Bildirim Formu Ekranı:
