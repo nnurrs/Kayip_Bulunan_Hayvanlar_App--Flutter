@@ -64,27 +64,30 @@ Kayıp ve Bulunan Hayvanların ilanlarının bulunduğu sayfalardır.
 Kullanıcıların isterse belirli bağış noktalarını görebilecekleri sayfadır.
 
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/7fd16b86-27a7-4e58-ae3d-3e3373c70724)
+![IMG-20240628-WA0007](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/0f864bd5-1983-4ead-b908-36604a4b1d90)
 
 
 ## Pati Takip Ekranı:
 
 Kullanıcıların takip ettikleri ilanları görebilecekleri sayfadır.
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/661febe5-2b68-431f-a6dc-567be077f300)
+![IMG-20240628-WA0006](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/976e5b38-3b45-4878-8388-9b790f744c7b)
+
 
 
 ## Pati Takip Filtrele Ekranı:
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/881cf0c4-ff85-407b-8fd8-58b51c61de26)
+
+![IMG-20240628-WA0004](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/89278ddc-5809-43f2-a2db-fbab0bf6b6ed)
 
 
 ## Profil Ekranı:
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/7dfa545c-891e-4a77-9727-de9924439d5d)
+
+![IMG-20240628-WA0003](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/04b060d8-c00a-499f-8428-33ccc9da7181)
 
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/4f76f721-7022-4333-ac1c-56933827c104)
+![IMG-20240628-WA0005](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/a1c5b46e-dc4f-4ab8-b342-7bd6103153ef)
 
 
 ## Firebase Koleksiyon Yapıları
