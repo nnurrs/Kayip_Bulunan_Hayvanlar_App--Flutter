@@ -1,4 +1,4 @@
-# Proje ile ilgili açıklamalar
+![IMG-20240628-WA0015](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/02cc261e-dc0b-463e-aca6-e8e3cbbb4753)![IMG-20240628-WA0015](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/02cc261e-dc0b-463e-aca6-e8e3cbbb4753)# Proje ile ilgili açıklamalar
 Bu uygulama, insanlara kaybolmuş veya terk edilmiş hayvanlara yardım etme ve onları bulma ya da belirli bir süre geçmesine rağmen hala sahibi bulunamamış hayvanları sahiplenme şansı sunarak toplumsal farkındalığı artırır ve yardımlaşma kültürünü teşvik eder.
 
 Uygulama üzerinden gösterilen, belirlenmiş olan mama bağış noktaları sayesinde, sokak hayvanlarının beslenme ihtiyaçları karşılanırken çevrenin temizliği de desteklenir.
@@ -7,7 +7,9 @@ Uygulama üzerinden gösterilen, belirlenmiş olan mama bağış noktaları saye
 # Kayıp ve Bulunan Hayvanlar uygulamasında bulunan ekranlar
 ## Splash Screen Ekranı:
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/3f80ac42-02b1-43c2-83e6-020a277c9436)
+![IMG-20240628-WA0015](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/a3e07dad-791e-47d1-b330-445f5183c14d)
+![IMG-20240628-WA0015](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/a3e07dad-791e-47d1-b330-445f5183c14d)
+
 
 
 ## Google ile Giriş Yap Ekranı:
