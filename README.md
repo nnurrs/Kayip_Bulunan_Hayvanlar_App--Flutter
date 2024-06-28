@@ -51,12 +51,14 @@ Kayıp ve Bulunan Hayvanların ilanlarının bulunduğu sayfalardır.
 
 ## Kayıp Hayvan Bildirim Formu Ekranı:
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/b9215888-aba9-499b-8bd7-466d2d0a78e4)
+![WhatsApp Görsel 2024-06-28 saat 19 03 18_d481ea9e](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/8b46694e-fff3-4e77-91c1-9e91908be23d)
+
 
 
 ## Bulunan Hayvan Bildirim Formu Ekranı:
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/4b3ce141-5d4e-468b-9bde-3b6fbacff303)
+![WhatsApp Görsel 2024-06-28 saat 19 03 18_533b21b4](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/c3b0edf4-e236-4b6f-bae1-dd64d59ccc68)
+
 
 
 ## Mama Bağış Ekranı:
@@ -92,7 +94,7 @@ Kullanıcıların takip ettikleri ilanları görebilecekleri sayfadır.
 
 ## Firebase Koleksiyon Yapıları
 
-![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/4fcb815a-c8a3-4a41-970d-f13b07bd7fd9)
+![image](https://github.com/nnurrs/Kayip_Bulunan_Hayvanlar_App--Flutter/assets/96475696/0fbfa8e9-f0b2-41ee-bcd9-9ef72fa54efa)
 
 
 
